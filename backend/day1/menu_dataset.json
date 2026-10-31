@@ -1,0 +1,3502 @@
+[
+  {
+    "dish_name": "pizza",
+    "category": "Pizza",
+    "price": 250,
+    "stock": 5,
+    "description": "Classic restaurant pizza."
+  },
+  {
+    "dish_name": "burger",
+    "category": "Burgers",
+    "price": 120,
+    "stock": 3,
+    "description": "Classic restaurant burger."
+  },
+  {
+    "dish_name": "paneer tikka",
+    "category": "Indian",
+    "price": 200,
+    "stock": 2,
+    "description": "Paneer tikka prepared with spices."
+  },
+  {
+    "dish_name": "cold coffee",
+    "category": "Beverages",
+    "price": 100,
+    "stock": 0,
+    "description": "Chilled coffee beverage."
+  },
+  {
+    "dish_name": "Peri Peri Veg",
+    "category": "Pizza",
+    "price": 250,
+    "stock": 29,
+    "description": "pizza with a rich cheese blend (classic variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Cheese Burst",
+    "category": "Pizza",
+    "price": 225,
+    "stock": 17,
+    "description": "pizza with a rich cheese blend (whole wheat variant)."
+  },
+  {
+    "dish_name": "Spicy Paneer Tikka",
+    "category": "Pizza",
+    "price": 405,
+    "stock": 18,
+    "description": "oven-baked pizza topped with fresh ingredients (spicy variant)."
+  },
+  {
+    "dish_name": "Thin Crust Veggie Supreme",
+    "category": "Pizza",
+    "price": 215,
+    "stock": 1,
+    "description": "pizza with a tangy house sauce and vegetables (thin crust variant)."
+  },
+  {
+    "dish_name": "Spicy Margherita",
+    "category": "Pizza",
+    "price": 320,
+    "stock": 24,
+    "description": "pizza with a rich cheese blend (spicy variant)."
+  },
+  {
+    "dish_name": "Mushroom",
+    "category": "Pizza",
+    "price": 225,
+    "stock": 27,
+    "description": "oven-baked pizza topped with fresh ingredients (classic variant)."
+  },
+  {
+    "dish_name": "Thin Crust Peri Peri Veg",
+    "category": "Pizza",
+    "price": 235,
+    "stock": 12,
+    "description": "pizza with a rich cheese blend (thin crust variant)."
+  },
+  {
+    "dish_name": "Spicy Farmhouse",
+    "category": "Pizza",
+    "price": 465,
+    "stock": 20,
+    "description": "pizza with a rich cheese blend (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Peri Peri Veg",
+    "category": "Pizza",
+    "price": 275,
+    "stock": 11,
+    "description": "pizza with a rich cheese blend (spicy variant)."
+  },
+  {
+    "dish_name": "Thin Crust Paneer Tikka",
+    "category": "Pizza",
+    "price": 305,
+    "stock": 21,
+    "description": "pizza with a rich cheese blend (thin crust variant)."
+  },
+  {
+    "dish_name": "Thin Crust Mexican",
+    "category": "Pizza",
+    "price": 220,
+    "stock": 19,
+    "description": "pizza with a tangy house sauce and vegetables (thin crust variant)."
+  },
+  {
+    "dish_name": "Thin Crust Cheese Burst",
+    "category": "Pizza",
+    "price": 280,
+    "stock": 17,
+    "description": "pizza with a tangy house sauce and vegetables (thin crust variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Veggie Supreme",
+    "category": "Pizza",
+    "price": 330,
+    "stock": 5,
+    "description": "pizza with a rich cheese blend (cheese burst variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Margherita",
+    "category": "Pizza",
+    "price": 415,
+    "stock": 8,
+    "description": "pizza with a tangy house sauce and vegetables (whole wheat variant)."
+  },
+  {
+    "dish_name": "Spicy Tandoori Paneer",
+    "category": "Pizza",
+    "price": 315,
+    "stock": 21,
+    "description": "pizza with a rich cheese blend (spicy variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Tandoori Paneer",
+    "category": "Pizza",
+    "price": 210,
+    "stock": 7,
+    "description": "oven-baked pizza topped with fresh ingredients (whole wheat variant)."
+  },
+  {
+    "dish_name": "Veggie Supreme",
+    "category": "Pizza",
+    "price": 375,
+    "stock": 12,
+    "description": "pizza with a rich cheese blend (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Cheese Burst",
+    "category": "Pizza",
+    "price": 215,
+    "stock": 6,
+    "description": "pizza with a tangy house sauce and vegetables (spicy variant)."
+  },
+  {
+    "dish_name": "Tandoori Paneer",
+    "category": "Pizza",
+    "price": 375,
+    "stock": 6,
+    "description": "pizza with a tangy house sauce and vegetables (classic variant)."
+  },
+  {
+    "dish_name": "Margherita",
+    "category": "Pizza",
+    "price": 490,
+    "stock": 12,
+    "description": "pizza with a tangy house sauce and vegetables (classic variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Corn & Cheese",
+    "category": "Pizza",
+    "price": 465,
+    "stock": 4,
+    "description": "pizza with a rich cheese blend (whole wheat variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Paneer Tikka",
+    "category": "Pizza",
+    "price": 260,
+    "stock": 7,
+    "description": "pizza with a tangy house sauce and vegetables (whole wheat variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Mexican",
+    "category": "Pizza",
+    "price": 340,
+    "stock": 23,
+    "description": "pizza with a tangy house sauce and vegetables (whole wheat variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Mushroom",
+    "category": "Pizza",
+    "price": 445,
+    "stock": 28,
+    "description": "pizza with a tangy house sauce and vegetables (whole wheat variant)."
+  },
+  {
+    "dish_name": "Thin Crust Corn & Cheese",
+    "category": "Pizza",
+    "price": 430,
+    "stock": 11,
+    "description": "oven-baked pizza topped with fresh ingredients (thin crust variant)."
+  },
+  {
+    "dish_name": "Mexican",
+    "category": "Pizza",
+    "price": 260,
+    "stock": 16,
+    "description": "pizza with a rich cheese blend (classic variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Peri Peri Veg",
+    "category": "Pizza",
+    "price": 230,
+    "stock": 24,
+    "description": "oven-baked pizza topped with fresh ingredients (whole wheat variant)."
+  },
+  {
+    "dish_name": "Cheese Burst",
+    "category": "Pizza",
+    "price": 245,
+    "stock": 4,
+    "description": "pizza with a tangy house sauce and vegetables (classic variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Cheese Burst",
+    "category": "Pizza",
+    "price": 275,
+    "stock": 25,
+    "description": "pizza with a tangy house sauce and vegetables (cheese burst variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Corn & Cheese",
+    "category": "Pizza",
+    "price": 445,
+    "stock": 19,
+    "description": "oven-baked pizza topped with fresh ingredients (cheese burst variant)."
+  },
+  {
+    "dish_name": "Thin Crust Mushroom",
+    "category": "Pizza",
+    "price": 420,
+    "stock": 12,
+    "description": "pizza with a tangy house sauce and vegetables (thin crust variant)."
+  },
+  {
+    "dish_name": "Thin Crust Tandoori Paneer",
+    "category": "Pizza",
+    "price": 470,
+    "stock": 16,
+    "description": "pizza with a rich cheese blend (thin crust variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Mexican",
+    "category": "Pizza",
+    "price": 180,
+    "stock": 21,
+    "description": "pizza with a tangy house sauce and vegetables (cheese burst variant)."
+  },
+  {
+    "dish_name": "Spicy Corn & Cheese",
+    "category": "Pizza",
+    "price": 245,
+    "stock": 21,
+    "description": "pizza with a tangy house sauce and vegetables (spicy variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Veggie Supreme",
+    "category": "Pizza",
+    "price": 345,
+    "stock": 24,
+    "description": "pizza with a tangy house sauce and vegetables (whole wheat variant)."
+  },
+  {
+    "dish_name": "Spicy Mushroom",
+    "category": "Pizza",
+    "price": 390,
+    "stock": 3,
+    "description": "pizza with a rich cheese blend (spicy variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Mushroom",
+    "category": "Pizza",
+    "price": 450,
+    "stock": 5,
+    "description": "pizza with a rich cheese blend (cheese burst variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Margherita",
+    "category": "Pizza",
+    "price": 175,
+    "stock": 30,
+    "description": "pizza with a tangy house sauce and vegetables (cheese burst variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Peri Peri Veg",
+    "category": "Pizza",
+    "price": 340,
+    "stock": 16,
+    "description": "oven-baked pizza topped with fresh ingredients (cheese burst variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Tandoori Paneer",
+    "category": "Pizza",
+    "price": 495,
+    "stock": 29,
+    "description": "oven-baked pizza topped with fresh ingredients (cheese burst variant)."
+  },
+  {
+    "dish_name": "Farmhouse",
+    "category": "Pizza",
+    "price": 365,
+    "stock": 26,
+    "description": "pizza with a tangy house sauce and vegetables (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Mexican",
+    "category": "Pizza",
+    "price": 495,
+    "stock": 19,
+    "description": "oven-baked pizza topped with fresh ingredients (spicy variant)."
+  },
+  {
+    "dish_name": "Thin Crust Farmhouse",
+    "category": "Pizza",
+    "price": 270,
+    "stock": 11,
+    "description": "oven-baked pizza topped with fresh ingredients (thin crust variant)."
+  },
+  {
+    "dish_name": "Whole Wheat Farmhouse",
+    "category": "Pizza",
+    "price": 175,
+    "stock": 19,
+    "description": "pizza with a rich cheese blend (whole wheat variant)."
+  },
+  {
+    "dish_name": "Spicy Veggie Supreme",
+    "category": "Pizza",
+    "price": 485,
+    "stock": 0,
+    "description": "oven-baked pizza topped with fresh ingredients (spicy variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Paneer Tikka",
+    "category": "Pizza",
+    "price": 325,
+    "stock": 1,
+    "description": "oven-baked pizza topped with fresh ingredients (cheese burst variant)."
+  },
+  {
+    "dish_name": "Thin Crust Margherita",
+    "category": "Pizza",
+    "price": 225,
+    "stock": 2,
+    "description": "pizza with a tangy house sauce and vegetables (thin crust variant)."
+  },
+  {
+    "dish_name": "Cheese Burst Farmhouse",
+    "category": "Pizza",
+    "price": 485,
+    "stock": 26,
+    "description": "oven-baked pizza topped with fresh ingredients (cheese burst variant)."
+  },
+  {
+    "dish_name": "Corn & Cheese",
+    "category": "Pizza",
+    "price": 255,
+    "stock": 4,
+    "description": "pizza with a tangy house sauce and vegetables (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Aloo Tikki",
+    "category": "Burgers",
+    "price": 205,
+    "stock": 6,
+    "description": "burger served in a toasted bun (spicy variant)."
+  },
+  {
+    "dish_name": "Grilled Peri Peri",
+    "category": "Burgers",
+    "price": 105,
+    "stock": 21,
+    "description": "burger with fresh vegetables and house sauce (grilled variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Double Cheese",
+    "category": "Burgers",
+    "price": 185,
+    "stock": 13,
+    "description": "burger with fresh vegetables and house sauce (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Corn & Cheese",
+    "category": "Burgers",
+    "price": 220,
+    "stock": 27,
+    "description": "burger with a crisp patty and creamy dressing (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Grilled Aloo Tikki",
+    "category": "Burgers",
+    "price": 90,
+    "stock": 21,
+    "description": "burger with a crisp patty and creamy dressing (grilled variant)."
+  },
+  {
+    "dish_name": "Grilled Paneer",
+    "category": "Burgers",
+    "price": 105,
+    "stock": 1,
+    "description": "burger with fresh vegetables and house sauce (grilled variant)."
+  },
+  {
+    "dish_name": "Aloo Tikki",
+    "category": "Burgers",
+    "price": 180,
+    "stock": 25,
+    "description": "burger served in a toasted bun (classic variant)."
+  },
+  {
+    "dish_name": "Grilled Mushroom Swiss",
+    "category": "Burgers",
+    "price": 150,
+    "stock": 6,
+    "description": "burger served in a toasted bun (grilled variant)."
+  },
+  {
+    "dish_name": "Classic Corn & Cheese (Burgers)",
+    "category": "Burgers",
+    "price": 245,
+    "stock": 14,
+    "description": "burger served in a toasted bun (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Double Cheese",
+    "category": "Burgers",
+    "price": 210,
+    "stock": 5,
+    "description": "burger with fresh vegetables and house sauce (spicy variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Peri Peri",
+    "category": "Burgers",
+    "price": 220,
+    "stock": 7,
+    "description": "burger served in a toasted bun (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Spicy Classic Veg",
+    "category": "Burgers",
+    "price": 215,
+    "stock": 25,
+    "description": "burger with a crisp patty and creamy dressing (spicy variant)."
+  },
+  {
+    "dish_name": "Jumbo Classic Veg",
+    "category": "Burgers",
+    "price": 105,
+    "stock": 1,
+    "description": "burger with a crisp patty and creamy dressing (jumbo variant)."
+  },
+  {
+    "dish_name": "Jumbo Aloo Tikki",
+    "category": "Burgers",
+    "price": 245,
+    "stock": 26,
+    "description": "burger served in a toasted bun (jumbo variant)."
+  },
+  {
+    "dish_name": "Grilled Spicy Potato",
+    "category": "Burgers",
+    "price": 100,
+    "stock": 29,
+    "description": "burger served in a toasted bun (grilled variant)."
+  },
+  {
+    "dish_name": "Spicy Mushroom Swiss",
+    "category": "Burgers",
+    "price": 125,
+    "stock": 13,
+    "description": "burger with fresh vegetables and house sauce (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Mexican Bean",
+    "category": "Burgers",
+    "price": 225,
+    "stock": 6,
+    "description": "burger with fresh vegetables and house sauce (spicy variant)."
+  },
+  {
+    "dish_name": "Grilled Double Cheese",
+    "category": "Burgers",
+    "price": 90,
+    "stock": 5,
+    "description": "burger with fresh vegetables and house sauce (grilled variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Mexican Bean",
+    "category": "Burgers",
+    "price": 75,
+    "stock": 12,
+    "description": "burger with fresh vegetables and house sauce (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Grilled Classic Veg",
+    "category": "Burgers",
+    "price": 220,
+    "stock": 9,
+    "description": "burger with fresh vegetables and house sauce (grilled variant)."
+  },
+  {
+    "dish_name": "Double Cheese",
+    "category": "Burgers",
+    "price": 230,
+    "stock": 4,
+    "description": "burger served in a toasted bun (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Spicy Potato",
+    "category": "Burgers",
+    "price": 165,
+    "stock": 6,
+    "description": "burger served in a toasted bun (spicy variant)."
+  },
+  {
+    "dish_name": "Grilled Corn & Cheese",
+    "category": "Burgers",
+    "price": 245,
+    "stock": 1,
+    "description": "burger with a crisp patty and creamy dressing (grilled variant)."
+  },
+  {
+    "dish_name": "Spicy Corn & Cheese (Burgers)",
+    "category": "Burgers",
+    "price": 175,
+    "stock": 1,
+    "description": "burger served in a toasted bun (spicy variant)."
+  },
+  {
+    "dish_name": "Jumbo Corn & Cheese",
+    "category": "Burgers",
+    "price": 225,
+    "stock": 16,
+    "description": "burger with a crisp patty and creamy dressing (jumbo variant)."
+  },
+  {
+    "dish_name": "Jumbo Spicy Potato",
+    "category": "Burgers",
+    "price": 125,
+    "stock": 1,
+    "description": "burger with a crisp patty and creamy dressing (jumbo variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Crispy Veg",
+    "category": "Burgers",
+    "price": 100,
+    "stock": 27,
+    "description": "burger served in a toasted bun (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Jumbo Crispy Veg",
+    "category": "Burgers",
+    "price": 95,
+    "stock": 19,
+    "description": "burger served in a toasted bun (jumbo variant)."
+  },
+  {
+    "dish_name": "Classic Veg",
+    "category": "Burgers",
+    "price": 150,
+    "stock": 12,
+    "description": "burger served in a toasted bun (classic variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Spicy Potato",
+    "category": "Burgers",
+    "price": 150,
+    "stock": 18,
+    "description": "burger with a crisp patty and creamy dressing (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Classic Veg",
+    "category": "Burgers",
+    "price": 85,
+    "stock": 19,
+    "description": "burger served in a toasted bun (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Spicy Paneer",
+    "category": "Burgers",
+    "price": 205,
+    "stock": 21,
+    "description": "burger with a crisp patty and creamy dressing (spicy variant)."
+  },
+  {
+    "dish_name": "Crispy Veg",
+    "category": "Burgers",
+    "price": 240,
+    "stock": 10,
+    "description": "burger with fresh vegetables and house sauce (classic variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Aloo Tikki",
+    "category": "Burgers",
+    "price": 140,
+    "stock": 21,
+    "description": "burger with a crisp patty and creamy dressing (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Grilled Mexican Bean",
+    "category": "Burgers",
+    "price": 175,
+    "stock": 7,
+    "description": "burger with fresh vegetables and house sauce (grilled variant)."
+  },
+  {
+    "dish_name": "Spicy Potato",
+    "category": "Burgers",
+    "price": 200,
+    "stock": 4,
+    "description": "burger with a crisp patty and creamy dressing (classic variant)."
+  },
+  {
+    "dish_name": "Jumbo Mushroom Swiss",
+    "category": "Burgers",
+    "price": 170,
+    "stock": 14,
+    "description": "burger with fresh vegetables and house sauce (jumbo variant)."
+  },
+  {
+    "dish_name": "Jumbo Double Cheese",
+    "category": "Burgers",
+    "price": 95,
+    "stock": 0,
+    "description": "burger with fresh vegetables and house sauce (jumbo variant)."
+  },
+  {
+    "dish_name": "Mushroom Swiss",
+    "category": "Burgers",
+    "price": 105,
+    "stock": 2,
+    "description": "burger with a crisp patty and creamy dressing (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Crispy Veg",
+    "category": "Burgers",
+    "price": 140,
+    "stock": 16,
+    "description": "burger with fresh vegetables and house sauce (spicy variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Paneer",
+    "category": "Burgers",
+    "price": 115,
+    "stock": 29,
+    "description": "burger with fresh vegetables and house sauce (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Spicy Peri Peri",
+    "category": "Burgers",
+    "price": 95,
+    "stock": 28,
+    "description": "burger served in a toasted bun (spicy variant)."
+  },
+  {
+    "dish_name": "Jumbo Paneer",
+    "category": "Burgers",
+    "price": 190,
+    "stock": 9,
+    "description": "burger served in a toasted bun (jumbo variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Mushroom Swiss",
+    "category": "Burgers",
+    "price": 215,
+    "stock": 26,
+    "description": "burger with a crisp patty and creamy dressing (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Jumbo Mexican Bean",
+    "category": "Burgers",
+    "price": 170,
+    "stock": 19,
+    "description": "burger with a crisp patty and creamy dressing (jumbo variant)."
+  },
+  {
+    "dish_name": "Jumbo Peri Peri",
+    "category": "Burgers",
+    "price": 240,
+    "stock": 0,
+    "description": "burger with a crisp patty and creamy dressing (jumbo variant)."
+  },
+  {
+    "dish_name": "Grilled Crispy Veg",
+    "category": "Burgers",
+    "price": 170,
+    "stock": 29,
+    "description": "burger with a crisp patty and creamy dressing (grilled variant)."
+  },
+  {
+    "dish_name": "Paneer",
+    "category": "Burgers",
+    "price": 105,
+    "stock": 30,
+    "description": "burger served in a toasted bun (classic variant)."
+  },
+  {
+    "dish_name": "Mexican Bean",
+    "category": "Burgers",
+    "price": 155,
+    "stock": 3,
+    "description": "burger served in a toasted bun (classic variant)."
+  },
+  {
+    "dish_name": "Peri Peri",
+    "category": "Burgers",
+    "price": 120,
+    "stock": 8,
+    "description": "burger with fresh vegetables and house sauce (classic variant)."
+  },
+  {
+    "dish_name": "Malai Kofta",
+    "category": "Indian",
+    "price": 175,
+    "stock": 11,
+    "description": "traditional recipe with freshly ground spices (classic variant)."
+  },
+  {
+    "dish_name": "Home Style Shahi Paneer",
+    "category": "Indian",
+    "price": 275,
+    "stock": 19,
+    "description": "traditional recipe with freshly ground spices (home style variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Palak Paneer",
+    "category": "Indian",
+    "price": 190,
+    "stock": 29,
+    "description": "Indian curry prepared with aromatic spices (dhaba style variant)."
+  },
+  {
+    "dish_name": "Creamy Palak Paneer",
+    "category": "Indian",
+    "price": 195,
+    "stock": 25,
+    "description": "Indian curry prepared with aromatic spices (creamy variant)."
+  },
+  {
+    "dish_name": "Dal Makhani",
+    "category": "Indian",
+    "price": 275,
+    "stock": 0,
+    "description": "Indian curry prepared with aromatic spices (classic variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Mix Veg",
+    "category": "Indian",
+    "price": 250,
+    "stock": 25,
+    "description": "North Indian dish served with a rich gravy (dhaba style variant)."
+  },
+  {
+    "dish_name": "Chole Masala",
+    "category": "Indian",
+    "price": 220,
+    "stock": 8,
+    "description": "Indian curry prepared with aromatic spices (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Mix Veg",
+    "category": "Indian",
+    "price": 175,
+    "stock": 12,
+    "description": "Indian curry prepared with aromatic spices (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Chole Masala",
+    "category": "Indian",
+    "price": 295,
+    "stock": 7,
+    "description": "Indian curry prepared with aromatic spices (spicy variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Rajma Masala",
+    "category": "Indian",
+    "price": 290,
+    "stock": 11,
+    "description": "North Indian dish served with a rich gravy (dhaba style variant)."
+  },
+  {
+    "dish_name": "Home Style Dal Makhani",
+    "category": "Indian",
+    "price": 215,
+    "stock": 7,
+    "description": "Indian curry prepared with aromatic spices (home style variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Shahi Paneer",
+    "category": "Indian",
+    "price": 205,
+    "stock": 12,
+    "description": "North Indian dish served with a rich gravy (dhaba style variant)."
+  },
+  {
+    "dish_name": "Creamy Chole Masala",
+    "category": "Indian",
+    "price": 230,
+    "stock": 27,
+    "description": "Indian curry prepared with aromatic spices (creamy variant)."
+  },
+  {
+    "dish_name": "Creamy Mix Veg",
+    "category": "Indian",
+    "price": 230,
+    "stock": 11,
+    "description": "traditional recipe with freshly ground spices (creamy variant)."
+  },
+  {
+    "dish_name": "Creamy Shahi Paneer",
+    "category": "Indian",
+    "price": 305,
+    "stock": 12,
+    "description": "traditional recipe with freshly ground spices (creamy variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Dal Makhani",
+    "category": "Indian",
+    "price": 315,
+    "stock": 10,
+    "description": "Indian curry prepared with aromatic spices (dhaba style variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Paneer Butter Masala",
+    "category": "Indian",
+    "price": 180,
+    "stock": 28,
+    "description": "North Indian dish served with a rich gravy (dhaba style variant)."
+  },
+  {
+    "dish_name": "Creamy Kadai Paneer",
+    "category": "Indian",
+    "price": 200,
+    "stock": 18,
+    "description": "North Indian dish served with a rich gravy (creamy variant)."
+  },
+  {
+    "dish_name": "Creamy Paneer Butter Masala",
+    "category": "Indian",
+    "price": 155,
+    "stock": 3,
+    "description": "traditional recipe with freshly ground spices (creamy variant)."
+  },
+  {
+    "dish_name": "Creamy Malai Kofta",
+    "category": "Indian",
+    "price": 280,
+    "stock": 11,
+    "description": "traditional recipe with freshly ground spices (creamy variant)."
+  },
+  {
+    "dish_name": "Creamy Matar Paneer",
+    "category": "Indian",
+    "price": 245,
+    "stock": 13,
+    "description": "traditional recipe with freshly ground spices (creamy variant)."
+  },
+  {
+    "dish_name": "Spicy Malai Kofta",
+    "category": "Indian",
+    "price": 305,
+    "stock": 3,
+    "description": "North Indian dish served with a rich gravy (spicy variant)."
+  },
+  {
+    "dish_name": "Mix Veg",
+    "category": "Indian",
+    "price": 325,
+    "stock": 6,
+    "description": "North Indian dish served with a rich gravy (classic variant)."
+  },
+  {
+    "dish_name": "Home Style Matar Paneer",
+    "category": "Indian",
+    "price": 155,
+    "stock": 22,
+    "description": "North Indian dish served with a rich gravy (home style variant)."
+  },
+  {
+    "dish_name": "Home Style Kadai Paneer",
+    "category": "Indian",
+    "price": 145,
+    "stock": 16,
+    "description": "traditional recipe with freshly ground spices (home style variant)."
+  },
+  {
+    "dish_name": "Palak Paneer",
+    "category": "Indian",
+    "price": 205,
+    "stock": 11,
+    "description": "North Indian dish served with a rich gravy (classic variant)."
+  },
+  {
+    "dish_name": "Creamy Dal Makhani",
+    "category": "Indian",
+    "price": 165,
+    "stock": 30,
+    "description": "traditional recipe with freshly ground spices (creamy variant)."
+  },
+  {
+    "dish_name": "Spicy Kadai Paneer",
+    "category": "Indian",
+    "price": 250,
+    "stock": 19,
+    "description": "North Indian dish served with a rich gravy (spicy variant)."
+  },
+  {
+    "dish_name": "Home Style Palak Paneer",
+    "category": "Indian",
+    "price": 180,
+    "stock": 23,
+    "description": "North Indian dish served with a rich gravy (home style variant)."
+  },
+  {
+    "dish_name": "Creamy Rajma Masala",
+    "category": "Indian",
+    "price": 305,
+    "stock": 9,
+    "description": "traditional recipe with freshly ground spices (creamy variant)."
+  },
+  {
+    "dish_name": "Kadai Paneer",
+    "category": "Indian",
+    "price": 275,
+    "stock": 10,
+    "description": "North Indian dish served with a rich gravy (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Shahi Paneer",
+    "category": "Indian",
+    "price": 235,
+    "stock": 17,
+    "description": "Indian curry prepared with aromatic spices (spicy variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Matar Paneer",
+    "category": "Indian",
+    "price": 205,
+    "stock": 13,
+    "description": "traditional recipe with freshly ground spices (dhaba style variant)."
+  },
+  {
+    "dish_name": "Paneer Butter Masala",
+    "category": "Indian",
+    "price": 265,
+    "stock": 21,
+    "description": "traditional recipe with freshly ground spices (classic variant)."
+  },
+  {
+    "dish_name": "Home Style Paneer Butter Masala",
+    "category": "Indian",
+    "price": 200,
+    "stock": 19,
+    "description": "traditional recipe with freshly ground spices (home style variant)."
+  },
+  {
+    "dish_name": "Home Style Chole Masala",
+    "category": "Indian",
+    "price": 240,
+    "stock": 12,
+    "description": "traditional recipe with freshly ground spices (home style variant)."
+  },
+  {
+    "dish_name": "Home Style Mix Veg",
+    "category": "Indian",
+    "price": 145,
+    "stock": 9,
+    "description": "North Indian dish served with a rich gravy (home style variant)."
+  },
+  {
+    "dish_name": "Shahi Paneer",
+    "category": "Indian",
+    "price": 210,
+    "stock": 13,
+    "description": "traditional recipe with freshly ground spices (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Paneer Butter Masala",
+    "category": "Indian",
+    "price": 335,
+    "stock": 20,
+    "description": "North Indian dish served with a rich gravy (spicy variant)."
+  },
+  {
+    "dish_name": "Home Style Rajma Masala",
+    "category": "Indian",
+    "price": 290,
+    "stock": 14,
+    "description": "North Indian dish served with a rich gravy (home style variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Malai Kofta",
+    "category": "Indian",
+    "price": 210,
+    "stock": 16,
+    "description": "North Indian dish served with a rich gravy (dhaba style variant)."
+  },
+  {
+    "dish_name": "Home Style Malai Kofta",
+    "category": "Indian",
+    "price": 195,
+    "stock": 21,
+    "description": "Indian curry prepared with aromatic spices (home style variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Chole Masala",
+    "category": "Indian",
+    "price": 235,
+    "stock": 16,
+    "description": "traditional recipe with freshly ground spices (dhaba style variant)."
+  },
+  {
+    "dish_name": "Rajma Masala",
+    "category": "Indian",
+    "price": 345,
+    "stock": 19,
+    "description": "North Indian dish served with a rich gravy (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Rajma Masala",
+    "category": "Indian",
+    "price": 170,
+    "stock": 26,
+    "description": "Indian curry prepared with aromatic spices (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Matar Paneer",
+    "category": "Indian",
+    "price": 240,
+    "stock": 7,
+    "description": "Indian curry prepared with aromatic spices (spicy variant)."
+  },
+  {
+    "dish_name": "Dhaba Style Kadai Paneer",
+    "category": "Indian",
+    "price": 190,
+    "stock": 0,
+    "description": "Indian curry prepared with aromatic spices (dhaba style variant)."
+  },
+  {
+    "dish_name": "Matar Paneer",
+    "category": "Indian",
+    "price": 220,
+    "stock": 15,
+    "description": "traditional recipe with freshly ground spices (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Dal Makhani",
+    "category": "Indian",
+    "price": 165,
+    "stock": 14,
+    "description": "North Indian dish served with a rich gravy (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Palak Paneer",
+    "category": "Indian",
+    "price": 345,
+    "stock": 18,
+    "description": "Indian curry prepared with aromatic spices (spicy variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Schezwan Fried Rice",
+    "category": "Chinese",
+    "price": 190,
+    "stock": 8,
+    "description": "dish cooked with garlic and seasonal vegetables (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Schezwan Fried Rice",
+    "category": "Chinese",
+    "price": 215,
+    "stock": 28,
+    "description": "spicy street-style preparation (classic variant)."
+  },
+  {
+    "dish_name": "Garlic Schezwan Fried Rice",
+    "category": "Chinese",
+    "price": 140,
+    "stock": 4,
+    "description": "Indo-Chinese favourite tossed with sauces (garlic variant)."
+  },
+  {
+    "dish_name": "Garlic Garlic Noodles",
+    "category": "Chinese",
+    "price": 185,
+    "stock": 12,
+    "description": "spicy street-style preparation (garlic variant)."
+  },
+  {
+    "dish_name": "Garlic Veg Hakka Noodles",
+    "category": "Chinese",
+    "price": 160,
+    "stock": 22,
+    "description": "Indo-Chinese favourite tossed with sauces (garlic variant)."
+  },
+  {
+    "dish_name": "Schezwan Veg Hakka Noodles",
+    "category": "Chinese",
+    "price": 135,
+    "stock": 13,
+    "description": "dish cooked with garlic and seasonal vegetables (schezwan variant)."
+  },
+  {
+    "dish_name": "Veg Manchurian",
+    "category": "Chinese",
+    "price": 220,
+    "stock": 17,
+    "description": "dish cooked with garlic and seasonal vegetables (classic variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Chilli Paneer",
+    "category": "Chinese",
+    "price": 245,
+    "stock": 1,
+    "description": "Indo-Chinese favourite tossed with sauces (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Schezwan Noodles",
+    "category": "Chinese",
+    "price": 245,
+    "stock": 12,
+    "description": "spicy street-style preparation (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Garlic Noodles",
+    "category": "Chinese",
+    "price": 120,
+    "stock": 27,
+    "description": "spicy street-style preparation (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Veg Manchurian",
+    "category": "Chinese",
+    "price": 235,
+    "stock": 15,
+    "description": "Indo-Chinese favourite tossed with sauces (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Chilli Potato",
+    "category": "Chinese",
+    "price": 225,
+    "stock": 9,
+    "description": "dish cooked with garlic and seasonal vegetables (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Garlic Veg Fried Rice",
+    "category": "Chinese",
+    "price": 245,
+    "stock": 17,
+    "description": "spicy street-style preparation (garlic variant)."
+  },
+  {
+    "dish_name": "Chilli Potato",
+    "category": "Chinese",
+    "price": 285,
+    "stock": 25,
+    "description": "spicy street-style preparation (classic variant)."
+  },
+  {
+    "dish_name": "Garlic Chilli Potato",
+    "category": "Chinese",
+    "price": 185,
+    "stock": 15,
+    "description": "Indo-Chinese favourite tossed with sauces (garlic variant)."
+  },
+  {
+    "dish_name": "Schezwan Garlic Noodles",
+    "category": "Chinese",
+    "price": 200,
+    "stock": 13,
+    "description": "dish cooked with garlic and seasonal vegetables (schezwan variant)."
+  },
+  {
+    "dish_name": "Schezwan Noodles",
+    "category": "Chinese",
+    "price": 120,
+    "stock": 12,
+    "description": "dish cooked with garlic and seasonal vegetables (classic variant)."
+  },
+  {
+    "dish_name": "Garlic Veg Manchurian",
+    "category": "Chinese",
+    "price": 240,
+    "stock": 23,
+    "description": "Indo-Chinese favourite tossed with sauces (garlic variant)."
+  },
+  {
+    "dish_name": "Schezwan Crispy Corn",
+    "category": "Chinese",
+    "price": 260,
+    "stock": 29,
+    "description": "Indo-Chinese favourite tossed with sauces (schezwan variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Veg Fried Rice",
+    "category": "Chinese",
+    "price": 285,
+    "stock": 0,
+    "description": "dish cooked with garlic and seasonal vegetables (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Schezwan Spring Rolls",
+    "category": "Chinese",
+    "price": 295,
+    "stock": 21,
+    "description": "Indo-Chinese favourite tossed with sauces (schezwan variant)."
+  },
+  {
+    "dish_name": "Garlic Crispy Corn",
+    "category": "Chinese",
+    "price": 140,
+    "stock": 20,
+    "description": "dish cooked with garlic and seasonal vegetables (garlic variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Spring Rolls",
+    "category": "Chinese",
+    "price": 155,
+    "stock": 27,
+    "description": "dish cooked with garlic and seasonal vegetables (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Veg Fried Rice",
+    "category": "Chinese",
+    "price": 170,
+    "stock": 1,
+    "description": "dish cooked with garlic and seasonal vegetables (classic variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Chilli Paneer",
+    "category": "Chinese",
+    "price": 235,
+    "stock": 10,
+    "description": "Indo-Chinese favourite tossed with sauces (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Garlic Chilli Paneer",
+    "category": "Chinese",
+    "price": 260,
+    "stock": 10,
+    "description": "dish cooked with garlic and seasonal vegetables (garlic variant)."
+  },
+  {
+    "dish_name": "Schezwan Chilli Paneer",
+    "category": "Chinese",
+    "price": 235,
+    "stock": 8,
+    "description": "dish cooked with garlic and seasonal vegetables (schezwan variant)."
+  },
+  {
+    "dish_name": "Schezwan Veg Manchurian",
+    "category": "Chinese",
+    "price": 195,
+    "stock": 26,
+    "description": "Indo-Chinese favourite tossed with sauces (schezwan variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Garlic Noodles",
+    "category": "Chinese",
+    "price": 265,
+    "stock": 0,
+    "description": "spicy street-style preparation (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Crispy Corn",
+    "category": "Chinese",
+    "price": 285,
+    "stock": 1,
+    "description": "dish cooked with garlic and seasonal vegetables (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Veg Hakka Noodles",
+    "category": "Chinese",
+    "price": 185,
+    "stock": 20,
+    "description": "Indo-Chinese favourite tossed with sauces (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Garlic Noodles",
+    "category": "Chinese",
+    "price": 125,
+    "stock": 24,
+    "description": "Indo-Chinese favourite tossed with sauces (classic variant)."
+  },
+  {
+    "dish_name": "Garlic Schezwan Noodles",
+    "category": "Chinese",
+    "price": 190,
+    "stock": 6,
+    "description": "Indo-Chinese favourite tossed with sauces (garlic variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Crispy Corn",
+    "category": "Chinese",
+    "price": 160,
+    "stock": 7,
+    "description": "Indo-Chinese favourite tossed with sauces (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Veg Hakka Noodles",
+    "category": "Chinese",
+    "price": 265,
+    "stock": 21,
+    "description": "Indo-Chinese favourite tossed with sauces (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Spring Rolls",
+    "category": "Chinese",
+    "price": 295,
+    "stock": 30,
+    "description": "Indo-Chinese favourite tossed with sauces (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Hot & Spicy Chilli Potato",
+    "category": "Chinese",
+    "price": 260,
+    "stock": 22,
+    "description": "dish cooked with garlic and seasonal vegetables (hot & spicy variant)."
+  },
+  {
+    "dish_name": "Schezwan Veg Fried Rice",
+    "category": "Chinese",
+    "price": 230,
+    "stock": 5,
+    "description": "spicy street-style preparation (schezwan variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Veg Fried Rice",
+    "category": "Chinese",
+    "price": 150,
+    "stock": 24,
+    "description": "Indo-Chinese favourite tossed with sauces (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Garlic Spring Rolls",
+    "category": "Chinese",
+    "price": 210,
+    "stock": 3,
+    "description": "spicy street-style preparation (garlic variant)."
+  },
+  {
+    "dish_name": "Schezwan Schezwan Noodles",
+    "category": "Chinese",
+    "price": 120,
+    "stock": 29,
+    "description": "dish cooked with garlic and seasonal vegetables (schezwan variant)."
+  },
+  {
+    "dish_name": "Veg Hakka Noodles",
+    "category": "Chinese",
+    "price": 295,
+    "stock": 21,
+    "description": "dish cooked with garlic and seasonal vegetables (classic variant)."
+  },
+  {
+    "dish_name": "Schezwan Schezwan Fried Rice",
+    "category": "Chinese",
+    "price": 240,
+    "stock": 30,
+    "description": "spicy street-style preparation (schezwan variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Schezwan Noodles",
+    "category": "Chinese",
+    "price": 175,
+    "stock": 2,
+    "description": "spicy street-style preparation (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Chilli Paneer",
+    "category": "Chinese",
+    "price": 190,
+    "stock": 3,
+    "description": "spicy street-style preparation (classic variant)."
+  },
+  {
+    "dish_name": "Spring Rolls",
+    "category": "Chinese",
+    "price": 210,
+    "stock": 27,
+    "description": "spicy street-style preparation (classic variant)."
+  },
+  {
+    "dish_name": "Schezwan Chilli Potato",
+    "category": "Chinese",
+    "price": 150,
+    "stock": 25,
+    "description": "spicy street-style preparation (schezwan variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Veg Manchurian",
+    "category": "Chinese",
+    "price": 125,
+    "stock": 11,
+    "description": "spicy street-style preparation (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Indo-Chinese Schezwan Fried Rice",
+    "category": "Chinese",
+    "price": 250,
+    "stock": 21,
+    "description": "dish cooked with garlic and seasonal vegetables (indo-chinese variant)."
+  },
+  {
+    "dish_name": "Crispy Corn",
+    "category": "Chinese",
+    "price": 135,
+    "stock": 16,
+    "description": "spicy street-style preparation (classic variant)."
+  },
+  {
+    "dish_name": "Lemon Soda",
+    "category": "Beverages",
+    "price": 160,
+    "stock": 13,
+    "description": "chilled drink made with quality ingredients (classic variant)."
+  },
+  {
+    "dish_name": "Less Sugar Lemon Soda",
+    "category": "Beverages",
+    "price": 130,
+    "stock": 24,
+    "description": "refreshing beverage prepared to order (less sugar variant)."
+  },
+  {
+    "dish_name": "Less Sugar Strawberry Shake",
+    "category": "Beverages",
+    "price": 155,
+    "stock": 15,
+    "description": "cool beverage served fresh (less sugar variant)."
+  },
+  {
+    "dish_name": "Large Cold Coffee",
+    "category": "Beverages",
+    "price": 155,
+    "stock": 15,
+    "description": "chilled drink made with quality ingredients (large variant)."
+  },
+  {
+    "dish_name": "Banana Shake",
+    "category": "Beverages",
+    "price": 170,
+    "stock": 0,
+    "description": "refreshing beverage prepared to order (classic variant)."
+  },
+  {
+    "dish_name": "Large Banana Shake",
+    "category": "Beverages",
+    "price": 90,
+    "stock": 7,
+    "description": "chilled drink made with quality ingredients (large variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Oreo Shake",
+    "category": "Beverages",
+    "price": 155,
+    "stock": 7,
+    "description": "chilled drink made with quality ingredients (extra creamy variant)."
+  },
+  {
+    "dish_name": "Masala Chaas",
+    "category": "Beverages",
+    "price": 150,
+    "stock": 18,
+    "description": "chilled drink made with quality ingredients (classic variant)."
+  },
+  {
+    "dish_name": "Large Chocolate Shake",
+    "category": "Beverages",
+    "price": 120,
+    "stock": 17,
+    "description": "cool beverage served fresh (large variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Iced Tea",
+    "category": "Beverages",
+    "price": 100,
+    "stock": 13,
+    "description": "cool beverage served fresh (extra creamy variant)."
+  },
+  {
+    "dish_name": "Special Cold Coffee",
+    "category": "Beverages",
+    "price": 130,
+    "stock": 10,
+    "description": "chilled drink made with quality ingredients (special variant)."
+  },
+  {
+    "dish_name": "Mango Shake",
+    "category": "Beverages",
+    "price": 155,
+    "stock": 14,
+    "description": "chilled drink made with quality ingredients (classic variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Cold Coffee",
+    "category": "Beverages",
+    "price": 90,
+    "stock": 8,
+    "description": "refreshing beverage prepared to order (extra creamy variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Strawberry Shake",
+    "category": "Beverages",
+    "price": 60,
+    "stock": 23,
+    "description": "refreshing beverage prepared to order (extra creamy variant)."
+  },
+  {
+    "dish_name": "Less Sugar Iced Tea",
+    "category": "Beverages",
+    "price": 95,
+    "stock": 3,
+    "description": "cool beverage served fresh (less sugar variant)."
+  },
+  {
+    "dish_name": "Special Banana Shake",
+    "category": "Beverages",
+    "price": 130,
+    "stock": 30,
+    "description": "cool beverage served fresh (special variant)."
+  },
+  {
+    "dish_name": "Chocolate Shake",
+    "category": "Beverages",
+    "price": 70,
+    "stock": 6,
+    "description": "refreshing beverage prepared to order (classic variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Banana Shake",
+    "category": "Beverages",
+    "price": 160,
+    "stock": 15,
+    "description": "chilled drink made with quality ingredients (extra creamy variant)."
+  },
+  {
+    "dish_name": "Iced Tea",
+    "category": "Beverages",
+    "price": 160,
+    "stock": 18,
+    "description": "cool beverage served fresh (classic variant)."
+  },
+  {
+    "dish_name": "Less Sugar Oreo Shake",
+    "category": "Beverages",
+    "price": 140,
+    "stock": 9,
+    "description": "refreshing beverage prepared to order (less sugar variant)."
+  },
+  {
+    "dish_name": "Special Chocolate Shake",
+    "category": "Beverages",
+    "price": 175,
+    "stock": 6,
+    "description": "chilled drink made with quality ingredients (special variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Chocolate Shake",
+    "category": "Beverages",
+    "price": 80,
+    "stock": 11,
+    "description": "refreshing beverage prepared to order (extra creamy variant)."
+  },
+  {
+    "dish_name": "Special Lemon Soda",
+    "category": "Beverages",
+    "price": 90,
+    "stock": 0,
+    "description": "cool beverage served fresh (special variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Masala Chaas",
+    "category": "Beverages",
+    "price": 130,
+    "stock": 4,
+    "description": "chilled drink made with quality ingredients (extra creamy variant)."
+  },
+  {
+    "dish_name": "Special Oreo Shake",
+    "category": "Beverages",
+    "price": 50,
+    "stock": 1,
+    "description": "cool beverage served fresh (special variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Mango Shake",
+    "category": "Beverages",
+    "price": 90,
+    "stock": 22,
+    "description": "refreshing beverage prepared to order (extra creamy variant)."
+  },
+  {
+    "dish_name": "Less Sugar Cold Coffee",
+    "category": "Beverages",
+    "price": 145,
+    "stock": 27,
+    "description": "chilled drink made with quality ingredients (less sugar variant)."
+  },
+  {
+    "dish_name": "Less Sugar Banana Shake",
+    "category": "Beverages",
+    "price": 60,
+    "stock": 27,
+    "description": "refreshing beverage prepared to order (less sugar variant)."
+  },
+  {
+    "dish_name": "Less Sugar Mango Shake",
+    "category": "Beverages",
+    "price": 135,
+    "stock": 9,
+    "description": "chilled drink made with quality ingredients (less sugar variant)."
+  },
+  {
+    "dish_name": "Less Sugar Fresh Lime Soda",
+    "category": "Beverages",
+    "price": 120,
+    "stock": 14,
+    "description": "chilled drink made with quality ingredients (less sugar variant)."
+  },
+  {
+    "dish_name": "Oreo Shake",
+    "category": "Beverages",
+    "price": 70,
+    "stock": 30,
+    "description": "refreshing beverage prepared to order (classic variant)."
+  },
+  {
+    "dish_name": "Large Iced Tea",
+    "category": "Beverages",
+    "price": 85,
+    "stock": 30,
+    "description": "chilled drink made with quality ingredients (large variant)."
+  },
+  {
+    "dish_name": "Special Iced Tea",
+    "category": "Beverages",
+    "price": 60,
+    "stock": 26,
+    "description": "refreshing beverage prepared to order (special variant)."
+  },
+  {
+    "dish_name": "Large Strawberry Shake",
+    "category": "Beverages",
+    "price": 105,
+    "stock": 15,
+    "description": "refreshing beverage prepared to order (large variant)."
+  },
+  {
+    "dish_name": "Fresh Lime Soda",
+    "category": "Beverages",
+    "price": 135,
+    "stock": 20,
+    "description": "cool beverage served fresh (classic variant)."
+  },
+  {
+    "dish_name": "Special Fresh Lime Soda",
+    "category": "Beverages",
+    "price": 50,
+    "stock": 4,
+    "description": "refreshing beverage prepared to order (special variant)."
+  },
+  {
+    "dish_name": "Less Sugar Chocolate Shake",
+    "category": "Beverages",
+    "price": 170,
+    "stock": 18,
+    "description": "chilled drink made with quality ingredients (less sugar variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Fresh Lime Soda",
+    "category": "Beverages",
+    "price": 55,
+    "stock": 7,
+    "description": "refreshing beverage prepared to order (extra creamy variant)."
+  },
+  {
+    "dish_name": "Large Oreo Shake",
+    "category": "Beverages",
+    "price": 130,
+    "stock": 24,
+    "description": "chilled drink made with quality ingredients (large variant)."
+  },
+  {
+    "dish_name": "Special Strawberry Shake",
+    "category": "Beverages",
+    "price": 140,
+    "stock": 19,
+    "description": "cool beverage served fresh (special variant)."
+  },
+  {
+    "dish_name": "Special Mango Shake",
+    "category": "Beverages",
+    "price": 80,
+    "stock": 24,
+    "description": "cool beverage served fresh (special variant)."
+  },
+  {
+    "dish_name": "Special Masala Chaas",
+    "category": "Beverages",
+    "price": 105,
+    "stock": 14,
+    "description": "chilled drink made with quality ingredients (special variant)."
+  },
+  {
+    "dish_name": "Strawberry Shake",
+    "category": "Beverages",
+    "price": 90,
+    "stock": 27,
+    "description": "cool beverage served fresh (classic variant)."
+  },
+  {
+    "dish_name": "Extra Creamy Lemon Soda",
+    "category": "Beverages",
+    "price": 110,
+    "stock": 9,
+    "description": "cool beverage served fresh (extra creamy variant)."
+  },
+  {
+    "dish_name": "Less Sugar Masala Chaas",
+    "category": "Beverages",
+    "price": 140,
+    "stock": 1,
+    "description": "cool beverage served fresh (less sugar variant)."
+  },
+  {
+    "dish_name": "Large Mango Shake",
+    "category": "Beverages",
+    "price": 160,
+    "stock": 3,
+    "description": "refreshing beverage prepared to order (large variant)."
+  },
+  {
+    "dish_name": "Large Fresh Lime Soda",
+    "category": "Beverages",
+    "price": 145,
+    "stock": 6,
+    "description": "chilled drink made with quality ingredients (large variant)."
+  },
+  {
+    "dish_name": "Large Masala Chaas",
+    "category": "Beverages",
+    "price": 150,
+    "stock": 2,
+    "description": "refreshing beverage prepared to order (large variant)."
+  },
+  {
+    "dish_name": "Large Lemon Soda",
+    "category": "Beverages",
+    "price": 55,
+    "stock": 5,
+    "description": "refreshing beverage prepared to order (large variant)."
+  },
+  {
+    "dish_name": "Mini Mango Mousse",
+    "category": "Desserts",
+    "price": 135,
+    "stock": 30,
+    "description": "freshly served dessert with a house-made finish (mini variant)."
+  },
+  {
+    "dish_name": "Mini Chocolate Lava Cake",
+    "category": "Desserts",
+    "price": 70,
+    "stock": 24,
+    "description": "freshly served dessert with a house-made finish (mini variant)."
+  },
+  {
+    "dish_name": "Cheesecake",
+    "category": "Desserts",
+    "price": 150,
+    "stock": 18,
+    "description": "sweet treat prepared for dessert lovers (classic variant)."
+  },
+  {
+    "dish_name": "Rasmalai",
+    "category": "Desserts",
+    "price": 120,
+    "stock": 15,
+    "description": "freshly served dessert with a house-made finish (classic variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Cheesecake",
+    "category": "Desserts",
+    "price": 205,
+    "stock": 29,
+    "description": "dessert with a rich and smooth texture (double chocolate variant)."
+  },
+  {
+    "dish_name": "Premium Red Velvet Cake",
+    "category": "Desserts",
+    "price": 120,
+    "stock": 18,
+    "description": "dessert with a rich and smooth texture (premium variant)."
+  },
+  {
+    "dish_name": "Special Chocolate Lava Cake",
+    "category": "Desserts",
+    "price": 220,
+    "stock": 2,
+    "description": "dessert with a rich and smooth texture (special variant)."
+  },
+  {
+    "dish_name": "Mini Gulab Jamun",
+    "category": "Desserts",
+    "price": 175,
+    "stock": 13,
+    "description": "dessert with a rich and smooth texture (mini variant)."
+  },
+  {
+    "dish_name": "Chocolate Brownie",
+    "category": "Desserts",
+    "price": 165,
+    "stock": 21,
+    "description": "sweet treat prepared for dessert lovers (classic variant)."
+  },
+  {
+    "dish_name": "Ice Cream Sundae",
+    "category": "Desserts",
+    "price": 115,
+    "stock": 10,
+    "description": "dessert with a rich and smooth texture (classic variant)."
+  },
+  {
+    "dish_name": "Mini Rasmalai",
+    "category": "Desserts",
+    "price": 220,
+    "stock": 9,
+    "description": "freshly served dessert with a house-made finish (mini variant)."
+  },
+  {
+    "dish_name": "Premium Caramel Custard",
+    "category": "Desserts",
+    "price": 190,
+    "stock": 26,
+    "description": "freshly served dessert with a house-made finish (premium variant)."
+  },
+  {
+    "dish_name": "Premium Rasmalai",
+    "category": "Desserts",
+    "price": 75,
+    "stock": 14,
+    "description": "sweet treat prepared for dessert lovers (premium variant)."
+  },
+  {
+    "dish_name": "Red Velvet Cake",
+    "category": "Desserts",
+    "price": 165,
+    "stock": 8,
+    "description": "dessert with a rich and smooth texture (classic variant)."
+  },
+  {
+    "dish_name": "Special Caramel Custard",
+    "category": "Desserts",
+    "price": 100,
+    "stock": 24,
+    "description": "dessert with a rich and smooth texture (special variant)."
+  },
+  {
+    "dish_name": "Mango Mousse",
+    "category": "Desserts",
+    "price": 225,
+    "stock": 26,
+    "description": "sweet treat prepared for dessert lovers (classic variant)."
+  },
+  {
+    "dish_name": "Chocolate Lava Cake",
+    "category": "Desserts",
+    "price": 210,
+    "stock": 13,
+    "description": "sweet treat prepared for dessert lovers (classic variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Chocolate Lava Cake",
+    "category": "Desserts",
+    "price": 125,
+    "stock": 16,
+    "description": "dessert with a rich and smooth texture (double chocolate variant)."
+  },
+  {
+    "dish_name": "Premium Chocolate Brownie",
+    "category": "Desserts",
+    "price": 220,
+    "stock": 20,
+    "description": "dessert with a rich and smooth texture (premium variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Caramel Custard",
+    "category": "Desserts",
+    "price": 80,
+    "stock": 6,
+    "description": "dessert with a rich and smooth texture (double chocolate variant)."
+  },
+  {
+    "dish_name": "Premium Chocolate Lava Cake",
+    "category": "Desserts",
+    "price": 105,
+    "stock": 29,
+    "description": "dessert with a rich and smooth texture (premium variant)."
+  },
+  {
+    "dish_name": "Apple Pie",
+    "category": "Desserts",
+    "price": 205,
+    "stock": 28,
+    "description": "freshly served dessert with a house-made finish (classic variant)."
+  },
+  {
+    "dish_name": "Special Cheesecake",
+    "category": "Desserts",
+    "price": 220,
+    "stock": 3,
+    "description": "sweet treat prepared for dessert lovers (special variant)."
+  },
+  {
+    "dish_name": "Mini Caramel Custard",
+    "category": "Desserts",
+    "price": 140,
+    "stock": 22,
+    "description": "sweet treat prepared for dessert lovers (mini variant)."
+  },
+  {
+    "dish_name": "Gulab Jamun",
+    "category": "Desserts",
+    "price": 160,
+    "stock": 17,
+    "description": "sweet treat prepared for dessert lovers (classic variant)."
+  },
+  {
+    "dish_name": "Mini Chocolate Brownie",
+    "category": "Desserts",
+    "price": 195,
+    "stock": 2,
+    "description": "sweet treat prepared for dessert lovers (mini variant)."
+  },
+  {
+    "dish_name": "Premium Apple Pie",
+    "category": "Desserts",
+    "price": 100,
+    "stock": 14,
+    "description": "sweet treat prepared for dessert lovers (premium variant)."
+  },
+  {
+    "dish_name": "Mini Red Velvet Cake",
+    "category": "Desserts",
+    "price": 110,
+    "stock": 15,
+    "description": "freshly served dessert with a house-made finish (mini variant)."
+  },
+  {
+    "dish_name": "Special Red Velvet Cake",
+    "category": "Desserts",
+    "price": 155,
+    "stock": 16,
+    "description": "freshly served dessert with a house-made finish (special variant)."
+  },
+  {
+    "dish_name": "Premium Gulab Jamun",
+    "category": "Desserts",
+    "price": 150,
+    "stock": 13,
+    "description": "dessert with a rich and smooth texture (premium variant)."
+  },
+  {
+    "dish_name": "Special Mango Mousse",
+    "category": "Desserts",
+    "price": 215,
+    "stock": 7,
+    "description": "dessert with a rich and smooth texture (special variant)."
+  },
+  {
+    "dish_name": "Special Gulab Jamun",
+    "category": "Desserts",
+    "price": 110,
+    "stock": 12,
+    "description": "sweet treat prepared for dessert lovers (special variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Mango Mousse",
+    "category": "Desserts",
+    "price": 225,
+    "stock": 23,
+    "description": "sweet treat prepared for dessert lovers (double chocolate variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Gulab Jamun",
+    "category": "Desserts",
+    "price": 85,
+    "stock": 8,
+    "description": "dessert with a rich and smooth texture (double chocolate variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Ice Cream Sundae",
+    "category": "Desserts",
+    "price": 170,
+    "stock": 29,
+    "description": "freshly served dessert with a house-made finish (double chocolate variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Rasmalai",
+    "category": "Desserts",
+    "price": 150,
+    "stock": 26,
+    "description": "sweet treat prepared for dessert lovers (double chocolate variant)."
+  },
+  {
+    "dish_name": "Mini Cheesecake",
+    "category": "Desserts",
+    "price": 155,
+    "stock": 23,
+    "description": "dessert with a rich and smooth texture (mini variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Apple Pie",
+    "category": "Desserts",
+    "price": 220,
+    "stock": 27,
+    "description": "sweet treat prepared for dessert lovers (double chocolate variant)."
+  },
+  {
+    "dish_name": "Special Chocolate Brownie",
+    "category": "Desserts",
+    "price": 205,
+    "stock": 17,
+    "description": "dessert with a rich and smooth texture (special variant)."
+  },
+  {
+    "dish_name": "Special Ice Cream Sundae",
+    "category": "Desserts",
+    "price": 175,
+    "stock": 10,
+    "description": "freshly served dessert with a house-made finish (special variant)."
+  },
+  {
+    "dish_name": "Mini Apple Pie",
+    "category": "Desserts",
+    "price": 185,
+    "stock": 14,
+    "description": "dessert with a rich and smooth texture (mini variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Red Velvet Cake",
+    "category": "Desserts",
+    "price": 125,
+    "stock": 22,
+    "description": "sweet treat prepared for dessert lovers (double chocolate variant)."
+  },
+  {
+    "dish_name": "Special Rasmalai",
+    "category": "Desserts",
+    "price": 185,
+    "stock": 7,
+    "description": "dessert with a rich and smooth texture (special variant)."
+  },
+  {
+    "dish_name": "Double Chocolate Chocolate Brownie",
+    "category": "Desserts",
+    "price": 75,
+    "stock": 10,
+    "description": "freshly served dessert with a house-made finish (double chocolate variant)."
+  },
+  {
+    "dish_name": "Premium Cheesecake",
+    "category": "Desserts",
+    "price": 215,
+    "stock": 22,
+    "description": "dessert with a rich and smooth texture (premium variant)."
+  },
+  {
+    "dish_name": "Caramel Custard",
+    "category": "Desserts",
+    "price": 185,
+    "stock": 21,
+    "description": "freshly served dessert with a house-made finish (classic variant)."
+  },
+  {
+    "dish_name": "Premium Mango Mousse",
+    "category": "Desserts",
+    "price": 110,
+    "stock": 15,
+    "description": "sweet treat prepared for dessert lovers (premium variant)."
+  },
+  {
+    "dish_name": "Special Apple Pie",
+    "category": "Desserts",
+    "price": 105,
+    "stock": 16,
+    "description": "freshly served dessert with a house-made finish (special variant)."
+  },
+  {
+    "dish_name": "Premium Ice Cream Sundae",
+    "category": "Desserts",
+    "price": 170,
+    "stock": 27,
+    "description": "sweet treat prepared for dessert lovers (premium variant)."
+  },
+  {
+    "dish_name": "Mini Ice Cream Sundae",
+    "category": "Desserts",
+    "price": 205,
+    "stock": 3,
+    "description": "freshly served dessert with a house-made finish (mini variant)."
+  },
+  {
+    "dish_name": "Ghee Plain Dosa",
+    "category": "South Indian",
+    "price": 90,
+    "stock": 5,
+    "description": "South Indian favourite served with chutney (ghee variant)."
+  },
+  {
+    "dish_name": "Crispy Mysore Dosa",
+    "category": "South Indian",
+    "price": 160,
+    "stock": 27,
+    "description": "traditional preparation with sambar (crispy variant)."
+  },
+  {
+    "dish_name": "Butter Medu Vada",
+    "category": "South Indian",
+    "price": 160,
+    "stock": 21,
+    "description": "South Indian favourite served with chutney (butter variant)."
+  },
+  {
+    "dish_name": "Special Onion Dosa",
+    "category": "South Indian",
+    "price": 140,
+    "stock": 29,
+    "description": "freshly prepared with a crisp texture (special variant)."
+  },
+  {
+    "dish_name": "Mysore Dosa",
+    "category": "South Indian",
+    "price": 85,
+    "stock": 7,
+    "description": "traditional preparation with sambar (classic variant)."
+  },
+  {
+    "dish_name": "Podi Idli",
+    "category": "South Indian",
+    "price": 165,
+    "stock": 8,
+    "description": "traditional preparation with sambar (classic variant)."
+  },
+  {
+    "dish_name": "Crispy Masala Dosa",
+    "category": "South Indian",
+    "price": 105,
+    "stock": 21,
+    "description": "South Indian favourite served with chutney (crispy variant)."
+  },
+  {
+    "dish_name": "Crispy Plain Dosa",
+    "category": "South Indian",
+    "price": 205,
+    "stock": 25,
+    "description": "traditional preparation with sambar (crispy variant)."
+  },
+  {
+    "dish_name": "Onion Dosa",
+    "category": "South Indian",
+    "price": 205,
+    "stock": 9,
+    "description": "freshly prepared with a crisp texture (classic variant)."
+  },
+  {
+    "dish_name": "Ghee Roast Dosa",
+    "category": "South Indian",
+    "price": 150,
+    "stock": 5,
+    "description": "South Indian favourite served with chutney (classic variant)."
+  },
+  {
+    "dish_name": "Butter Onion Dosa",
+    "category": "South Indian",
+    "price": 135,
+    "stock": 30,
+    "description": "traditional preparation with sambar (butter variant)."
+  },
+  {
+    "dish_name": "Ghee Idli Sambar",
+    "category": "South Indian",
+    "price": 155,
+    "stock": 9,
+    "description": "freshly prepared with a crisp texture (ghee variant)."
+  },
+  {
+    "dish_name": "Butter Mysore Dosa",
+    "category": "South Indian",
+    "price": 215,
+    "stock": 13,
+    "description": "freshly prepared with a crisp texture (butter variant)."
+  },
+  {
+    "dish_name": "Butter Idli Sambar",
+    "category": "South Indian",
+    "price": 105,
+    "stock": 14,
+    "description": "traditional preparation with sambar (butter variant)."
+  },
+  {
+    "dish_name": "Idli Sambar",
+    "category": "South Indian",
+    "price": 95,
+    "stock": 12,
+    "description": "traditional preparation with sambar (classic variant)."
+  },
+  {
+    "dish_name": "Ghee Ghee Roast Dosa",
+    "category": "South Indian",
+    "price": 80,
+    "stock": 7,
+    "description": "traditional preparation with sambar (ghee variant)."
+  },
+  {
+    "dish_name": "Ghee Podi Idli",
+    "category": "South Indian",
+    "price": 155,
+    "stock": 11,
+    "description": "freshly prepared with a crisp texture (ghee variant)."
+  },
+  {
+    "dish_name": "Butter Podi Idli",
+    "category": "South Indian",
+    "price": 110,
+    "stock": 22,
+    "description": "traditional preparation with sambar (butter variant)."
+  },
+  {
+    "dish_name": "Special Mysore Dosa",
+    "category": "South Indian",
+    "price": 65,
+    "stock": 26,
+    "description": "freshly prepared with a crisp texture (special variant)."
+  },
+  {
+    "dish_name": "Butter Uttapam",
+    "category": "South Indian",
+    "price": 125,
+    "stock": 8,
+    "description": "South Indian favourite served with chutney (butter variant)."
+  },
+  {
+    "dish_name": "Ghee Masala Dosa",
+    "category": "South Indian",
+    "price": 155,
+    "stock": 27,
+    "description": "freshly prepared with a crisp texture (ghee variant)."
+  },
+  {
+    "dish_name": "Ghee Mysore Dosa",
+    "category": "South Indian",
+    "price": 185,
+    "stock": 23,
+    "description": "South Indian favourite served with chutney (ghee variant)."
+  },
+  {
+    "dish_name": "Special Ghee Roast Dosa",
+    "category": "South Indian",
+    "price": 210,
+    "stock": 19,
+    "description": "freshly prepared with a crisp texture (special variant)."
+  },
+  {
+    "dish_name": "Ghee Medu Vada",
+    "category": "South Indian",
+    "price": 140,
+    "stock": 26,
+    "description": "traditional preparation with sambar (ghee variant)."
+  },
+  {
+    "dish_name": "Ghee Uttapam",
+    "category": "South Indian",
+    "price": 185,
+    "stock": 25,
+    "description": "South Indian favourite served with chutney (ghee variant)."
+  },
+  {
+    "dish_name": "Ghee Onion Dosa",
+    "category": "South Indian",
+    "price": 160,
+    "stock": 25,
+    "description": "traditional preparation with sambar (ghee variant)."
+  },
+  {
+    "dish_name": "Crispy Podi Idli",
+    "category": "South Indian",
+    "price": 100,
+    "stock": 20,
+    "description": "South Indian favourite served with chutney (crispy variant)."
+  },
+  {
+    "dish_name": "Ghee Rava Dosa",
+    "category": "South Indian",
+    "price": 160,
+    "stock": 8,
+    "description": "freshly prepared with a crisp texture (ghee variant)."
+  },
+  {
+    "dish_name": "Butter Plain Dosa",
+    "category": "South Indian",
+    "price": 185,
+    "stock": 23,
+    "description": "freshly prepared with a crisp texture (butter variant)."
+  },
+  {
+    "dish_name": "Butter Rava Dosa",
+    "category": "South Indian",
+    "price": 170,
+    "stock": 26,
+    "description": "South Indian favourite served with chutney (butter variant)."
+  },
+  {
+    "dish_name": "Special Idli Sambar",
+    "category": "South Indian",
+    "price": 165,
+    "stock": 3,
+    "description": "freshly prepared with a crisp texture (special variant)."
+  },
+  {
+    "dish_name": "Butter Masala Dosa",
+    "category": "South Indian",
+    "price": 165,
+    "stock": 1,
+    "description": "traditional preparation with sambar (butter variant)."
+  },
+  {
+    "dish_name": "Crispy Rava Dosa",
+    "category": "South Indian",
+    "price": 190,
+    "stock": 14,
+    "description": "South Indian favourite served with chutney (crispy variant)."
+  },
+  {
+    "dish_name": "Medu Vada",
+    "category": "South Indian",
+    "price": 155,
+    "stock": 11,
+    "description": "freshly prepared with a crisp texture (classic variant)."
+  },
+  {
+    "dish_name": "Special Medu Vada",
+    "category": "South Indian",
+    "price": 85,
+    "stock": 2,
+    "description": "traditional preparation with sambar (special variant)."
+  },
+  {
+    "dish_name": "Special Rava Dosa",
+    "category": "South Indian",
+    "price": 115,
+    "stock": 23,
+    "description": "traditional preparation with sambar (special variant)."
+  },
+  {
+    "dish_name": "Special Podi Idli",
+    "category": "South Indian",
+    "price": 90,
+    "stock": 6,
+    "description": "South Indian favourite served with chutney (special variant)."
+  },
+  {
+    "dish_name": "Plain Dosa",
+    "category": "South Indian",
+    "price": 190,
+    "stock": 17,
+    "description": "traditional preparation with sambar (classic variant)."
+  },
+  {
+    "dish_name": "Uttapam",
+    "category": "South Indian",
+    "price": 145,
+    "stock": 16,
+    "description": "traditional preparation with sambar (classic variant)."
+  },
+  {
+    "dish_name": "Crispy Medu Vada",
+    "category": "South Indian",
+    "price": 195,
+    "stock": 5,
+    "description": "traditional preparation with sambar (crispy variant)."
+  },
+  {
+    "dish_name": "Crispy Idli Sambar",
+    "category": "South Indian",
+    "price": 210,
+    "stock": 26,
+    "description": "traditional preparation with sambar (crispy variant)."
+  },
+  {
+    "dish_name": "Rava Dosa",
+    "category": "South Indian",
+    "price": 215,
+    "stock": 25,
+    "description": "traditional preparation with sambar (classic variant)."
+  },
+  {
+    "dish_name": "Special Masala Dosa",
+    "category": "South Indian",
+    "price": 180,
+    "stock": 27,
+    "description": "traditional preparation with sambar (special variant)."
+  },
+  {
+    "dish_name": "Butter Ghee Roast Dosa",
+    "category": "South Indian",
+    "price": 190,
+    "stock": 3,
+    "description": "traditional preparation with sambar (butter variant)."
+  },
+  {
+    "dish_name": "Crispy Onion Dosa",
+    "category": "South Indian",
+    "price": 215,
+    "stock": 2,
+    "description": "South Indian favourite served with chutney (crispy variant)."
+  },
+  {
+    "dish_name": "Crispy Uttapam",
+    "category": "South Indian",
+    "price": 185,
+    "stock": 30,
+    "description": "South Indian favourite served with chutney (crispy variant)."
+  },
+  {
+    "dish_name": "Special Plain Dosa",
+    "category": "South Indian",
+    "price": 200,
+    "stock": 21,
+    "description": "freshly prepared with a crisp texture (special variant)."
+  },
+  {
+    "dish_name": "Crispy Ghee Roast Dosa",
+    "category": "South Indian",
+    "price": 170,
+    "stock": 12,
+    "description": "freshly prepared with a crisp texture (crispy variant)."
+  },
+  {
+    "dish_name": "Masala Dosa",
+    "category": "South Indian",
+    "price": 120,
+    "stock": 2,
+    "description": "traditional preparation with sambar (classic variant)."
+  },
+  {
+    "dish_name": "Special Uttapam",
+    "category": "South Indian",
+    "price": 65,
+    "stock": 8,
+    "description": "freshly prepared with a crisp texture (special variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Samosa",
+    "category": "Snacks",
+    "price": 155,
+    "stock": 11,
+    "description": "quick snack prepared fresh (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Large Kachori",
+    "category": "Snacks",
+    "price": 115,
+    "stock": 14,
+    "description": "quick snack prepared fresh (large variant)."
+  },
+  {
+    "dish_name": "Nachos",
+    "category": "Snacks",
+    "price": 180,
+    "stock": 11,
+    "description": "quick snack prepared fresh (classic variant)."
+  },
+  {
+    "dish_name": "Special Cheese Balls",
+    "category": "Snacks",
+    "price": 150,
+    "stock": 11,
+    "description": "light bite with house seasoning (special variant)."
+  },
+  {
+    "dish_name": "Large Veg Sandwich",
+    "category": "Snacks",
+    "price": 185,
+    "stock": 20,
+    "description": "crispy snack served with a dip (large variant)."
+  },
+  {
+    "dish_name": "French Fries",
+    "category": "Snacks",
+    "price": 50,
+    "stock": 12,
+    "description": "crispy snack served with a dip (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Samosa",
+    "category": "Snacks",
+    "price": 75,
+    "stock": 30,
+    "description": "quick snack prepared fresh (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Paneer Wrap",
+    "category": "Snacks",
+    "price": 195,
+    "stock": 27,
+    "description": "crispy snack served with a dip (spicy variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded French Fries",
+    "category": "Snacks",
+    "price": 55,
+    "stock": 21,
+    "description": "quick snack prepared fresh (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Special Aloo Patty",
+    "category": "Snacks",
+    "price": 145,
+    "stock": 20,
+    "description": "light bite with house seasoning (special variant)."
+  },
+  {
+    "dish_name": "Large Peri Peri Fries",
+    "category": "Snacks",
+    "price": 45,
+    "stock": 1,
+    "description": "crispy snack served with a dip (large variant)."
+  },
+  {
+    "dish_name": "Spicy Cheese Garlic Bread",
+    "category": "Snacks",
+    "price": 80,
+    "stock": 4,
+    "description": "light bite with house seasoning (spicy variant)."
+  },
+  {
+    "dish_name": "Cheese Garlic Bread",
+    "category": "Snacks",
+    "price": 75,
+    "stock": 2,
+    "description": "light bite with house seasoning (classic variant)."
+  },
+  {
+    "dish_name": "Peri Peri Fries",
+    "category": "Snacks",
+    "price": 75,
+    "stock": 18,
+    "description": "quick snack prepared fresh (classic variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Veg Sandwich",
+    "category": "Snacks",
+    "price": 175,
+    "stock": 27,
+    "description": "quick snack prepared fresh (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Cheese Garlic Bread",
+    "category": "Snacks",
+    "price": 95,
+    "stock": 24,
+    "description": "quick snack prepared fresh (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Cheese Balls",
+    "category": "Snacks",
+    "price": 170,
+    "stock": 28,
+    "description": "light bite with house seasoning (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Special Nachos",
+    "category": "Snacks",
+    "price": 45,
+    "stock": 8,
+    "description": "quick snack prepared fresh (special variant)."
+  },
+  {
+    "dish_name": "Special Veg Sandwich",
+    "category": "Snacks",
+    "price": 65,
+    "stock": 17,
+    "description": "crispy snack served with a dip (special variant)."
+  },
+  {
+    "dish_name": "Samosa",
+    "category": "Snacks",
+    "price": 170,
+    "stock": 5,
+    "description": "quick snack prepared fresh (classic variant)."
+  },
+  {
+    "dish_name": "Veg Sandwich",
+    "category": "Snacks",
+    "price": 150,
+    "stock": 27,
+    "description": "quick snack prepared fresh (classic variant)."
+  },
+  {
+    "dish_name": "Large Samosa",
+    "category": "Snacks",
+    "price": 65,
+    "stock": 0,
+    "description": "crispy snack served with a dip (large variant)."
+  },
+  {
+    "dish_name": "Spicy Cheese Balls",
+    "category": "Snacks",
+    "price": 170,
+    "stock": 25,
+    "description": "quick snack prepared fresh (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Aloo Patty",
+    "category": "Snacks",
+    "price": 135,
+    "stock": 10,
+    "description": "quick snack prepared fresh (spicy variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Kachori",
+    "category": "Snacks",
+    "price": 70,
+    "stock": 8,
+    "description": "quick snack prepared fresh (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Large French Fries",
+    "category": "Snacks",
+    "price": 65,
+    "stock": 23,
+    "description": "crispy snack served with a dip (large variant)."
+  },
+  {
+    "dish_name": "Large Cheese Garlic Bread",
+    "category": "Snacks",
+    "price": 125,
+    "stock": 3,
+    "description": "light bite with house seasoning (large variant)."
+  },
+  {
+    "dish_name": "Special Kachori",
+    "category": "Snacks",
+    "price": 55,
+    "stock": 15,
+    "description": "crispy snack served with a dip (special variant)."
+  },
+  {
+    "dish_name": "Special Peri Peri Fries",
+    "category": "Snacks",
+    "price": 165,
+    "stock": 11,
+    "description": "light bite with house seasoning (special variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Paneer Wrap",
+    "category": "Snacks",
+    "price": 135,
+    "stock": 3,
+    "description": "crispy snack served with a dip (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Spicy Kachori",
+    "category": "Snacks",
+    "price": 125,
+    "stock": 7,
+    "description": "light bite with house seasoning (spicy variant)."
+  },
+  {
+    "dish_name": "Large Nachos",
+    "category": "Snacks",
+    "price": 50,
+    "stock": 23,
+    "description": "light bite with house seasoning (large variant)."
+  },
+  {
+    "dish_name": "Special French Fries",
+    "category": "Snacks",
+    "price": 125,
+    "stock": 9,
+    "description": "crispy snack served with a dip (special variant)."
+  },
+  {
+    "dish_name": "Large Aloo Patty",
+    "category": "Snacks",
+    "price": 145,
+    "stock": 30,
+    "description": "quick snack prepared fresh (large variant)."
+  },
+  {
+    "dish_name": "Paneer Wrap",
+    "category": "Snacks",
+    "price": 50,
+    "stock": 15,
+    "description": "crispy snack served with a dip (classic variant)."
+  },
+  {
+    "dish_name": "Aloo Patty",
+    "category": "Snacks",
+    "price": 110,
+    "stock": 21,
+    "description": "quick snack prepared fresh (classic variant)."
+  },
+  {
+    "dish_name": "Spicy French Fries",
+    "category": "Snacks",
+    "price": 120,
+    "stock": 22,
+    "description": "crispy snack served with a dip (spicy variant)."
+  },
+  {
+    "dish_name": "Kachori",
+    "category": "Snacks",
+    "price": 55,
+    "stock": 28,
+    "description": "quick snack prepared fresh (classic variant)."
+  },
+  {
+    "dish_name": "Special Cheese Garlic Bread",
+    "category": "Snacks",
+    "price": 95,
+    "stock": 19,
+    "description": "quick snack prepared fresh (special variant)."
+  },
+  {
+    "dish_name": "Spicy Peri Peri Fries",
+    "category": "Snacks",
+    "price": 55,
+    "stock": 4,
+    "description": "crispy snack served with a dip (spicy variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Nachos",
+    "category": "Snacks",
+    "price": 140,
+    "stock": 20,
+    "description": "light bite with house seasoning (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Cheese Balls",
+    "category": "Snacks",
+    "price": 130,
+    "stock": 22,
+    "description": "crispy snack served with a dip (classic variant)."
+  },
+  {
+    "dish_name": "Special Paneer Wrap",
+    "category": "Snacks",
+    "price": 105,
+    "stock": 19,
+    "description": "light bite with house seasoning (special variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Aloo Patty",
+    "category": "Snacks",
+    "price": 90,
+    "stock": 14,
+    "description": "light bite with house seasoning (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Spicy Veg Sandwich",
+    "category": "Snacks",
+    "price": 140,
+    "stock": 13,
+    "description": "quick snack prepared fresh (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Nachos",
+    "category": "Snacks",
+    "price": 170,
+    "stock": 22,
+    "description": "quick snack prepared fresh (spicy variant)."
+  },
+  {
+    "dish_name": "Large Cheese Balls",
+    "category": "Snacks",
+    "price": 180,
+    "stock": 20,
+    "description": "light bite with house seasoning (large variant)."
+  },
+  {
+    "dish_name": "Large Paneer Wrap",
+    "category": "Snacks",
+    "price": 185,
+    "stock": 24,
+    "description": "light bite with house seasoning (large variant)."
+  },
+  {
+    "dish_name": "Special Samosa",
+    "category": "Snacks",
+    "price": 160,
+    "stock": 27,
+    "description": "quick snack prepared fresh (special variant)."
+  },
+  {
+    "dish_name": "Cheese Loaded Peri Peri Fries",
+    "category": "Snacks",
+    "price": 110,
+    "stock": 14,
+    "description": "quick snack prepared fresh (cheese loaded variant)."
+  },
+  {
+    "dish_name": "Spicy White Sauce Pasta",
+    "category": "Pasta",
+    "price": 320,
+    "stock": 11,
+    "description": "pasta tossed in a freshly prepared sauce (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Pink Sauce Pasta",
+    "category": "Pasta",
+    "price": 230,
+    "stock": 18,
+    "description": "pasta tossed in a freshly prepared sauce (spicy variant)."
+  },
+  {
+    "dish_name": "White Sauce Pasta",
+    "category": "Pasta",
+    "price": 280,
+    "stock": 27,
+    "description": "comforting pasta dish prepared to order (classic variant)."
+  },
+  {
+    "dish_name": "Creamy Alfredo Pasta",
+    "category": "Pasta",
+    "price": 320,
+    "stock": 0,
+    "description": "comforting pasta dish prepared to order (creamy variant)."
+  },
+  {
+    "dish_name": "Spicy Red Sauce Pasta",
+    "category": "Pasta",
+    "price": 230,
+    "stock": 0,
+    "description": "pasta tossed in a freshly prepared sauce (spicy variant)."
+  },
+  {
+    "dish_name": "Baked Mushroom Pasta",
+    "category": "Pasta",
+    "price": 230,
+    "stock": 22,
+    "description": "Italian-style pasta with herbs and cheese (baked variant)."
+  },
+  {
+    "dish_name": "Creamy Spinach Corn Pasta",
+    "category": "Pasta",
+    "price": 250,
+    "stock": 11,
+    "description": "pasta tossed in a freshly prepared sauce (creamy variant)."
+  },
+  {
+    "dish_name": "Special Pesto Pasta",
+    "category": "Pasta",
+    "price": 200,
+    "stock": 27,
+    "description": "pasta tossed in a freshly prepared sauce (special variant)."
+  },
+  {
+    "dish_name": "Baked Red Sauce Pasta",
+    "category": "Pasta",
+    "price": 325,
+    "stock": 21,
+    "description": "Italian-style pasta with herbs and cheese (baked variant)."
+  },
+  {
+    "dish_name": "Spinach Corn Pasta",
+    "category": "Pasta",
+    "price": 165,
+    "stock": 4,
+    "description": "comforting pasta dish prepared to order (classic variant)."
+  },
+  {
+    "dish_name": "Pesto Pasta",
+    "category": "Pasta",
+    "price": 150,
+    "stock": 2,
+    "description": "comforting pasta dish prepared to order (classic variant)."
+  },
+  {
+    "dish_name": "Baked Alfredo Pasta",
+    "category": "Pasta",
+    "price": 310,
+    "stock": 6,
+    "description": "Italian-style pasta with herbs and cheese (baked variant)."
+  },
+  {
+    "dish_name": "Special Pink Sauce Pasta",
+    "category": "Pasta",
+    "price": 275,
+    "stock": 14,
+    "description": "Italian-style pasta with herbs and cheese (special variant)."
+  },
+  {
+    "dish_name": "Baked Cheese Ravioli",
+    "category": "Pasta",
+    "price": 195,
+    "stock": 11,
+    "description": "Italian-style pasta with herbs and cheese (baked variant)."
+  },
+  {
+    "dish_name": "Mushroom Pasta",
+    "category": "Pasta",
+    "price": 245,
+    "stock": 24,
+    "description": "comforting pasta dish prepared to order (classic variant)."
+  },
+  {
+    "dish_name": "Special Mac and Cheese",
+    "category": "Pasta",
+    "price": 170,
+    "stock": 28,
+    "description": "pasta tossed in a freshly prepared sauce (special variant)."
+  },
+  {
+    "dish_name": "Spicy Mushroom Pasta",
+    "category": "Pasta",
+    "price": 190,
+    "stock": 5,
+    "description": "comforting pasta dish prepared to order (spicy variant)."
+  },
+  {
+    "dish_name": "Baked Arrabbiata Pasta",
+    "category": "Pasta",
+    "price": 160,
+    "stock": 21,
+    "description": "pasta tossed in a freshly prepared sauce (baked variant)."
+  },
+  {
+    "dish_name": "Baked Pink Sauce Pasta",
+    "category": "Pasta",
+    "price": 230,
+    "stock": 14,
+    "description": "comforting pasta dish prepared to order (baked variant)."
+  },
+  {
+    "dish_name": "Baked White Sauce Pasta",
+    "category": "Pasta",
+    "price": 280,
+    "stock": 15,
+    "description": "comforting pasta dish prepared to order (baked variant)."
+  },
+  {
+    "dish_name": "Pink Sauce Pasta",
+    "category": "Pasta",
+    "price": 285,
+    "stock": 13,
+    "description": "Italian-style pasta with herbs and cheese (classic variant)."
+  },
+  {
+    "dish_name": "Spicy Mac and Cheese",
+    "category": "Pasta",
+    "price": 210,
+    "stock": 24,
+    "description": "comforting pasta dish prepared to order (spicy variant)."
+  },
+  {
+    "dish_name": "Spicy Alfredo Pasta",
+    "category": "Pasta",
+    "price": 180,
+    "stock": 11,
+    "description": "Italian-style pasta with herbs and cheese (spicy variant)."
+  },
+  {
+    "dish_name": "Baked Pesto Pasta",
+    "category": "Pasta",
+    "price": 180,
+    "stock": 9,
+    "description": "comforting pasta dish prepared to order (baked variant)."
+  },
+  {
+    "dish_name": "Creamy White Sauce Pasta",
+    "category": "Pasta",
+    "price": 300,
+    "stock": 16,
+    "description": "comforting pasta dish prepared to order (creamy variant)."
+  },
+  {
+    "dish_name": "Spicy Pesto Pasta",
+    "category": "Pasta",
+    "price": 240,
+    "stock": 1,
+    "description": "pasta tossed in a freshly prepared sauce (spicy variant)."
+  },
+  {
+    "dish_name": "Creamy Cheese Ravioli",
+    "category": "Pasta",
+    "price": 270,
+    "stock": 19,
+    "description": "pasta tossed in a freshly prepared sauce (creamy variant)."
+  },
+  {
+    "dish_name": "Creamy Mushroom Pasta",
+    "category": "Pasta",
+    "price": 145,
+    "stock": 6,
+    "description": "Italian-style pasta with herbs and cheese (creamy variant)."
+  },
+  {
+    "dish_name": "Creamy Pink Sauce Pasta",
+    "category": "Pasta",
+    "price": 210,
+    "stock": 24,
+    "description": "pasta tossed in a freshly prepared sauce (creamy variant)."
+  },
+  {
+    "dish_name": "Spicy Cheese Ravioli",
+    "category": "Pasta",
+    "price": 225,
+    "stock": 9,
+    "description": "Italian-style pasta with herbs and cheese (spicy variant)."
+  },
+  {
+    "dish_name": "Special Cheese Ravioli",
+    "category": "Pasta",
+    "price": 180,
+    "stock": 0,
+    "description": "Italian-style pasta with herbs and cheese (special variant)."
+  },
+  {
+    "dish_name": "Special Spinach Corn Pasta",
+    "category": "Pasta",
+    "price": 280,
+    "stock": 5,
+    "description": "pasta tossed in a freshly prepared sauce (special variant)."
+  },
+  {
+    "dish_name": "Spicy Spinach Corn Pasta",
+    "category": "Pasta",
+    "price": 265,
+    "stock": 17,
+    "description": "comforting pasta dish prepared to order (spicy variant)."
+  },
+  {
+    "dish_name": "Special Alfredo Pasta",
+    "category": "Pasta",
+    "price": 215,
+    "stock": 16,
+    "description": "comforting pasta dish prepared to order (special variant)."
+  },
+  {
+    "dish_name": "Cheese Ravioli",
+    "category": "Pasta",
+    "price": 255,
+    "stock": 2,
+    "description": "Italian-style pasta with herbs and cheese (classic variant)."
+  },
+  {
+    "dish_name": "Red Sauce Pasta",
+    "category": "Pasta",
+    "price": 155,
+    "stock": 13,
+    "description": "pasta tossed in a freshly prepared sauce (classic variant)."
+  },
+  {
+    "dish_name": "Special White Sauce Pasta",
+    "category": "Pasta",
+    "price": 290,
+    "stock": 29,
+    "description": "pasta tossed in a freshly prepared sauce (special variant)."
+  },
+  {
+    "dish_name": "Alfredo Pasta",
+    "category": "Pasta",
+    "price": 245,
+    "stock": 18,
+    "description": "Italian-style pasta with herbs and cheese (classic variant)."
+  },
+  {
+    "dish_name": "Special Red Sauce Pasta",
+    "category": "Pasta",
+    "price": 325,
+    "stock": 12,
+    "description": "comforting pasta dish prepared to order (special variant)."
+  },
+  {
+    "dish_name": "Baked Mac and Cheese",
+    "category": "Pasta",
+    "price": 275,
+    "stock": 9,
+    "description": "pasta tossed in a freshly prepared sauce (baked variant)."
+  },
+  {
+    "dish_name": "Creamy Pesto Pasta",
+    "category": "Pasta",
+    "price": 270,
+    "stock": 0,
+    "description": "Italian-style pasta with herbs and cheese (creamy variant)."
+  },
+  {
+    "dish_name": "Baked Spinach Corn Pasta",
+    "category": "Pasta",
+    "price": 195,
+    "stock": 25,
+    "description": "comforting pasta dish prepared to order (baked variant)."
+  },
+  {
+    "dish_name": "Spicy Arrabbiata Pasta",
+    "category": "Pasta",
+    "price": 290,
+    "stock": 26,
+    "description": "comforting pasta dish prepared to order (spicy variant)."
+  },
+  {
+    "dish_name": "Mac and Cheese",
+    "category": "Pasta",
+    "price": 260,
+    "stock": 2,
+    "description": "Italian-style pasta with herbs and cheese (classic variant)."
+  },
+  {
+    "dish_name": "Creamy Red Sauce Pasta",
+    "category": "Pasta",
+    "price": 175,
+    "stock": 7,
+    "description": "Italian-style pasta with herbs and cheese (creamy variant)."
+  },
+  {
+    "dish_name": "Special Mushroom Pasta",
+    "category": "Pasta",
+    "price": 270,
+    "stock": 16,
+    "description": "pasta tossed in a freshly prepared sauce (special variant)."
+  },
+  {
+    "dish_name": "Arrabbiata Pasta",
+    "category": "Pasta",
+    "price": 270,
+    "stock": 27,
+    "description": "Italian-style pasta with herbs and cheese (classic variant)."
+  },
+  {
+    "dish_name": "Special Arrabbiata Pasta",
+    "category": "Pasta",
+    "price": 250,
+    "stock": 7,
+    "description": "Italian-style pasta with herbs and cheese (special variant)."
+  },
+  {
+    "dish_name": "Creamy Mac and Cheese",
+    "category": "Pasta",
+    "price": 195,
+    "stock": 2,
+    "description": "comforting pasta dish prepared to order (creamy variant)."
+  },
+  {
+    "dish_name": "Creamy Arrabbiata Pasta",
+    "category": "Pasta",
+    "price": 180,
+    "stock": 16,
+    "description": "comforting pasta dish prepared to order (creamy variant)."
+  },
+  {
+    "dish_name": "Special Dosa Meal",
+    "category": "Combos",
+    "price": 480,
+    "stock": 29,
+    "description": "meal bundle with selected restaurant favourites (special variant)."
+  },
+  {
+    "dish_name": "Deluxe Snack Box",
+    "category": "Combos",
+    "price": 610,
+    "stock": 6,
+    "description": "combo designed for a satisfying meal (deluxe variant)."
+  },
+  {
+    "dish_name": "Special Rice and Curry",
+    "category": "Combos",
+    "price": 580,
+    "stock": 15,
+    "description": "meal bundle with selected restaurant favourites (special variant)."
+  },
+  {
+    "dish_name": "Family Pizza and Drink",
+    "category": "Combos",
+    "price": 290,
+    "stock": 30,
+    "description": "value meal with complementary items (family variant)."
+  },
+  {
+    "dish_name": "Deluxe Family Feast",
+    "category": "Combos",
+    "price": 480,
+    "stock": 3,
+    "description": "combo designed for a satisfying meal (deluxe variant)."
+  },
+  {
+    "dish_name": "Deluxe Pasta Meal",
+    "category": "Combos",
+    "price": 650,
+    "stock": 2,
+    "description": "meal bundle with selected restaurant favourites (deluxe variant)."
+  },
+  {
+    "dish_name": "Regular Dosa Meal",
+    "category": "Combos",
+    "price": 605,
+    "stock": 5,
+    "description": "value meal with complementary items (regular variant)."
+  },
+  {
+    "dish_name": "Special Noodles Meal",
+    "category": "Combos",
+    "price": 350,
+    "stock": 22,
+    "description": "combo designed for a satisfying meal (special variant)."
+  },
+  {
+    "dish_name": "Family Dosa Meal",
+    "category": "Combos",
+    "price": 475,
+    "stock": 16,
+    "description": "meal bundle with selected restaurant favourites (family variant)."
+  },
+  {
+    "dish_name": "Value Burger and Fries",
+    "category": "Combos",
+    "price": 585,
+    "stock": 5,
+    "description": "combo designed for a satisfying meal (value variant)."
+  },
+  {
+    "dish_name": "Deluxe Noodles Meal",
+    "category": "Combos",
+    "price": 430,
+    "stock": 29,
+    "description": "combo designed for a satisfying meal (deluxe variant)."
+  },
+  {
+    "dish_name": "Value Pizza and Drink",
+    "category": "Combos",
+    "price": 440,
+    "stock": 13,
+    "description": "combo designed for a satisfying meal (value variant)."
+  },
+  {
+    "dish_name": "Family Paneer Meal",
+    "category": "Combos",
+    "price": 625,
+    "stock": 19,
+    "description": "value meal with complementary items (family variant)."
+  },
+  {
+    "dish_name": "Deluxe Burger and Fries",
+    "category": "Combos",
+    "price": 700,
+    "stock": 20,
+    "description": "meal bundle with selected restaurant favourites (deluxe variant)."
+  },
+  {
+    "dish_name": "Value Pasta Meal",
+    "category": "Combos",
+    "price": 405,
+    "stock": 2,
+    "description": "combo designed for a satisfying meal (value variant)."
+  },
+  {
+    "dish_name": "Value Sandwich and Coffee",
+    "category": "Combos",
+    "price": 255,
+    "stock": 17,
+    "description": "meal bundle with selected restaurant favourites (value variant)."
+  },
+  {
+    "dish_name": "Value Snack Box",
+    "category": "Combos",
+    "price": 440,
+    "stock": 9,
+    "description": "combo designed for a satisfying meal (value variant)."
+  },
+  {
+    "dish_name": "Value Rice and Curry",
+    "category": "Combos",
+    "price": 655,
+    "stock": 27,
+    "description": "meal bundle with selected restaurant favourites (value variant)."
+  },
+  {
+    "dish_name": "Regular Pizza and Drink",
+    "category": "Combos",
+    "price": 775,
+    "stock": 19,
+    "description": "value meal with complementary items (regular variant)."
+  },
+  {
+    "dish_name": "Family Noodles Meal",
+    "category": "Combos",
+    "price": 405,
+    "stock": 2,
+    "description": "meal bundle with selected restaurant favourites (family variant)."
+  },
+  {
+    "dish_name": "Family Burger and Fries",
+    "category": "Combos",
+    "price": 615,
+    "stock": 4,
+    "description": "combo designed for a satisfying meal (family variant)."
+  },
+  {
+    "dish_name": "Deluxe Rice and Curry",
+    "category": "Combos",
+    "price": 390,
+    "stock": 30,
+    "description": "meal bundle with selected restaurant favourites (deluxe variant)."
+  },
+  {
+    "dish_name": "Family Pasta Meal",
+    "category": "Combos",
+    "price": 640,
+    "stock": 21,
+    "description": "combo designed for a satisfying meal (family variant)."
+  },
+  {
+    "dish_name": "Regular Sandwich and Coffee",
+    "category": "Combos",
+    "price": 275,
+    "stock": 19,
+    "description": "meal bundle with selected restaurant favourites (regular variant)."
+  },
+  {
+    "dish_name": "Family Snack Box",
+    "category": "Combos",
+    "price": 795,
+    "stock": 2,
+    "description": "combo designed for a satisfying meal (family variant)."
+  },
+  {
+    "dish_name": "Deluxe Pizza and Drink",
+    "category": "Combos",
+    "price": 550,
+    "stock": 12,
+    "description": "meal bundle with selected restaurant favourites (deluxe variant)."
+  },
+  {
+    "dish_name": "Special Paneer Meal",
+    "category": "Combos",
+    "price": 700,
+    "stock": 10,
+    "description": "value meal with complementary items (special variant)."
+  },
+  {
+    "dish_name": "Regular Rice and Curry",
+    "category": "Combos",
+    "price": 620,
+    "stock": 22,
+    "description": "meal bundle with selected restaurant favourites (regular variant)."
+  },
+  {
+    "dish_name": "Value Paneer Meal",
+    "category": "Combos",
+    "price": 630,
+    "stock": 29,
+    "description": "meal bundle with selected restaurant favourites (value variant)."
+  },
+  {
+    "dish_name": "Special Pasta Meal",
+    "category": "Combos",
+    "price": 250,
+    "stock": 20,
+    "description": "meal bundle with selected restaurant favourites (special variant)."
+  },
+  {
+    "dish_name": "Deluxe Sandwich and Coffee",
+    "category": "Combos",
+    "price": 465,
+    "stock": 16,
+    "description": "combo designed for a satisfying meal (deluxe variant)."
+  },
+  {
+    "dish_name": "Value Dosa Meal",
+    "category": "Combos",
+    "price": 205,
+    "stock": 11,
+    "description": "combo designed for a satisfying meal (value variant)."
+  },
+  {
+    "dish_name": "Family Sandwich and Coffee",
+    "category": "Combos",
+    "price": 310,
+    "stock": 30,
+    "description": "value meal with complementary items (family variant)."
+  },
+  {
+    "dish_name": "Special Sandwich and Coffee",
+    "category": "Combos",
+    "price": 410,
+    "stock": 30,
+    "description": "combo designed for a satisfying meal (special variant)."
+  },
+  {
+    "dish_name": "Regular Pasta Meal",
+    "category": "Combos",
+    "price": 315,
+    "stock": 7,
+    "description": "value meal with complementary items (regular variant)."
+  },
+  {
+    "dish_name": "Family Rice and Curry",
+    "category": "Combos",
+    "price": 290,
+    "stock": 2,
+    "description": "combo designed for a satisfying meal (family variant)."
+  },
+  {
+    "dish_name": "Special Pizza and Drink",
+    "category": "Combos",
+    "price": 735,
+    "stock": 25,
+    "description": "value meal with complementary items (special variant)."
+  },
+  {
+    "dish_name": "Value Family Feast",
+    "category": "Combos",
+    "price": 515,
+    "stock": 24,
+    "description": "meal bundle with selected restaurant favourites (value variant)."
+  },
+  {
+    "dish_name": "Regular Paneer Meal",
+    "category": "Combos",
+    "price": 725,
+    "stock": 23,
+    "description": "meal bundle with selected restaurant favourites (regular variant)."
+  },
+  {
+    "dish_name": "Special Family Feast",
+    "category": "Combos",
+    "price": 215,
+    "stock": 21,
+    "description": "combo designed for a satisfying meal (special variant)."
+  },
+  {
+    "dish_name": "Regular Noodles Meal",
+    "category": "Combos",
+    "price": 755,
+    "stock": 24,
+    "description": "meal bundle with selected restaurant favourites (regular variant)."
+  },
+  {
+    "dish_name": "Special Snack Box",
+    "category": "Combos",
+    "price": 275,
+    "stock": 19,
+    "description": "combo designed for a satisfying meal (special variant)."
+  },
+  {
+    "dish_name": "Regular Burger and Fries",
+    "category": "Combos",
+    "price": 290,
+    "stock": 5,
+    "description": "value meal with complementary items (regular variant)."
+  },
+  {
+    "dish_name": "Value Noodles Meal",
+    "category": "Combos",
+    "price": 725,
+    "stock": 22,
+    "description": "meal bundle with selected restaurant favourites (value variant)."
+  },
+  {
+    "dish_name": "Special Burger and Fries",
+    "category": "Combos",
+    "price": 710,
+    "stock": 28,
+    "description": "value meal with complementary items (special variant)."
+  },
+  {
+    "dish_name": "Regular Snack Box",
+    "category": "Combos",
+    "price": 655,
+    "stock": 14,
+    "description": "value meal with complementary items (regular variant)."
+  },
+  {
+    "dish_name": "Regular Family Feast",
+    "category": "Combos",
+    "price": 455,
+    "stock": 11,
+    "description": "meal bundle with selected restaurant favourites (regular variant)."
+  },
+  {
+    "dish_name": "Family Family Feast",
+    "category": "Combos",
+    "price": 655,
+    "stock": 7,
+    "description": "combo designed for a satisfying meal (family variant)."
+  }
+]

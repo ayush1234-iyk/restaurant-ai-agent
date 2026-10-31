@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import './App.css'
 
-const API = 'http://127.0.0.1:8000'
+const API = 'https://restaurant-ai-agent-1-fskp.onrender.com'
 
 const FOOD_IMAGES = [
   {

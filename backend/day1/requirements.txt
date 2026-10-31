@@ -3,3 +3,4 @@ uvicorn[standard]
 groq
 python-dotenv
 langgraph
+langchain-groq

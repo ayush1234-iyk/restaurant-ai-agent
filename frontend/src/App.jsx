@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import './App.css'
 
-const API = 'https://restaurant-ai-agent-1-fskp.onrender.com'
+const API = 'https://restaurant-ai-agent-1-fskp.onrender.com';
 
 const FOOD_IMAGES = [
   {

@@ -19,17 +19,19 @@ from order_service import (
 app = FastAPI(title="Restaurant AI Agent API")
 
 # Local development: allow Vite on localhost/127.0.0.1 ports.
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
-        "https://restaurant-ai-agent-nu.vercel.app/",
+        "https://restaurant-ai-agent-nu.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 
 

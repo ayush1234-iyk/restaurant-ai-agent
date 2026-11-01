@@ -4,3 +4,4 @@ groq
 python-dotenv
 langgraph
 langchain-groq
+psycopg[binary]
